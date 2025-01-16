@@ -1,6 +1,6 @@
 public class LeapYearCheck {
 
-    public boolean isLeap(int year) {
+    public boolean isLeapYear(int year) {
         // TODO fix the failing test
         return false;
     }
