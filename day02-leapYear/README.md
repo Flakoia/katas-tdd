@@ -1,8 +1,5 @@
 # LeapYear Kata
 
-## Consigne du Kata :
-
-[Coding Dojo](https://codingdojo.org/kata/LeapYears/)
 
 ### Critères d'acceptation :
 
