@@ -18,11 +18,10 @@ Vous ne pouvez pas écrire de code de production sans d'abord exécuter un test 
 
 🖋️ Écrivez un programme qui satisfait les exigences suivantes :
 
-* Générez une séquence d'entiers de 1 à 100.
 * Remplacez tout entier divisible par 3 par "Fizz".
 * Remplacez tout entier divisible par 5 par "Buzz".
 * Remplacez tout entier divisible par 3 et 5 par "FizzBuzz".
-* Affichez le résultat sous forme de chaîne délimitée par des virgules.
+* (Bonus) Utilisez l'IA pour simuler les edge cases 
 
 ### Suggestion ###
 
