@@ -9,7 +9,8 @@ class FizzBuzzTest {
     private final FizzBuzz fizzBuzz = new FizzBuzz();
 
     @Test
-    void input_1_gives_string_1() {
+    void Given1_WhenFizzBuzzConvert_ThenItShouldReturn1() {
+
         assertEquals("1", fizzBuzz.convert(1));
     }
 
