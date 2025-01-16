@@ -1,4 +1,4 @@
-# MorningRoutine kata
+# org.example.MorningRoutine kata
 
 ## Consigne du Kata :
 
